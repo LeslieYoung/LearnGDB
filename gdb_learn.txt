@@ -1,0 +1,13 @@
+参考：
+http://blog.jobbole.com/107759/
+http://www.cnblogs.com/life2refuel/p/5396538.html
+--GDB使用--
+问题：
+1.gdb多线程调试
+2.核心转储文件
+3.TUI模式？->TestUsr Interface 为GDB调试的文本用户界面，可以方便地显示源代码、汇编和寄存器文本窗口，TUI使用效果如下图所示
+    >进入(退出)快捷键： ctrl + X + A /或者gdbtui
+
+--基本操作--
+
+ 
