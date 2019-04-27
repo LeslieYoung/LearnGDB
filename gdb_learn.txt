@@ -1,6 +1,12 @@
 参考：
+https://www.jianshu.com/p/79671588f6d8
 http://blog.jobbole.com/107759/
 http://www.cnblogs.com/life2refuel/p/5396538.html
+http://blog.jobbole.com/76103/
+
+GDB在线文档：https://sourceware.org/gdb/current/onlinedocs/gdb/ 
+GDB Server文档 ：https://sourceware.org/gdb/onlinedocs/gdb/Server.html
+上述文档的中文翻译 ：https://blog.csdn.net/benson_linux/article/details/1537834
 --GDB使用--
 问题：
 1.gdb多线程调试
