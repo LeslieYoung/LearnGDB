@@ -22,3 +22,32 @@ http://www.cnblogs.com/life2refuel/p/5396538.html
  >disable
  >enable
  
+ 2-单步调试
+ >next (简写n) 跳过函数
+ >step (简写s) 进入函数
+ 
+ 3-断点后的恢复执行
+ >continue (简写c) 继续执行到下个break
+ >continue命令执行期间，按下CTRL-C瞬间停止
+ 
+ 4-查看变量
+ >print (简写p)
+ >disp
+ >call
+ 
+ 5-TUI 相关从操作
+ > ctrl +X +A 进入退出该模式
+ > (gdb) list 显示c源码
+ > (gdb) layout split 同时显示c源码和汇编源码
+ > (gdb) info registers 显示使用到的寄存器信息
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
